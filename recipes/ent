@@ -1,0 +1,2 @@
+(ent :fetcher github :repo "dpom/ent"
+     :files ("*.el"))
